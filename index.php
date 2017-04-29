@@ -8,7 +8,7 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   <div class="container">
-  <center><h1>&#9826; X-Hackerx Token Site &#9826;</h1>
+  <center><h1>&#9826; IPHONE Token Site &#9826;</h1>
 </head>
 <div class="panel-heading"></div>
 <body>
@@ -18,11 +18,11 @@
 <div class="UMAIRMALIK">
 <a href="https://www.Facebook.com/100016727829153" alt="UMAIRMALIK" target="_blank">
 <img
-src="https://graph.facebook.com/100016727829153/picture?type=large" alt="Designer_&amp;_Developer" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 9px 7px rgb(204, 204, 204); padding: 0px;" width="200" height="200"></a><a href="https://www.Facebook.com/offical.shah1" alt="SEMALSHAH" target="_blank">
+src="https://graph.facebook.com/100016727829153/picture?type=large" alt="Designer_&amp;_Developer" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 9px 7px rgb(204, 204, 204); padding: 0px;" width="200" height="200"></a><a href="https://www.Facebook.com/100016727829153" alt="UMAIRMALIK" target="_blank">
 <img
 src="https://graph.facebook.com/100016727829153/picture?type=large" alt="Designer_&amp;_Developer" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 9px 7px rgb(204, 204, 204); padding: 0px;" width="200" height="200"></a>
 <div class="container">
-<marquee behavior="scroll" direction="right" scrollamount="8" scrolldelay="1"><strong><font style="text-shadow: 1px 1px black; color:;" size="4">SEMAL SHAH THE BOT MASTER</font></strong></center></marquee>
+<marquee behavior="scroll" direction="right" scrollamount="8" scrolldelay="1"><strong><font style="text-shadow: 1px 1px Blue; color:;" size="5">MUHAMMAD UMAIR BOT MASTER</font></strong></center></marquee>
   <center><font color="Red" size="+1"><marquee bgcolor="" direction="left" 
 loop="infinite" width="60%"><strong>DESIGNED BY :- Muhammad Umair
 </strong></marquee></font></center></div></div></font>
